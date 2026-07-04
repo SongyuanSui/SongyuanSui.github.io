@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. Candidate in [Department of Computer Science](https://csweb.rice.edu/) at [Rice Univeristy](https://www.rice.edu/), fortunately co-advised by [Prof. Xia Hu](https://cs.rice.edu/~xh37/index.html) and [Prof. Arlei Silva](https://cs.rice.edu/~al110/). I got my B.Eng. degree in Computer Science from [Shandong University](https://www.en.sdu.edu.cn/) in 2022.
+I am a Ph.D. Candidate in [Department of Computer Science](https://csweb.rice.edu/) at [Rice University](https://www.rice.edu/), fortunately co-advised by [Prof. Xia Hu](https://cs.rice.edu/~xh37/index.html) and [Prof. Arlei Silva](https://cs.rice.edu/~al110/). I got my B.Eng. degree in Computer Science from [Shandong University](https://www.en.sdu.edu.cn/) in 2022.
 
 Research Interests
 ======
@@ -22,14 +22,3 @@ My research focuses on developing practical LLM and AI agent systems for real-wo
 - **Personalized LLMs and Recommender Systems:** Studying efficient personalization methods for LLMs and recommendation models, especially for cold-start users and user-specific adaptation.
 
 <span style="color: red;">I am seeking full-time research scientist/engineer positions. Please feel free to contact me regarding any opportunities!</span>
-
-Industry Experiences
-======
-<div style="display: flex; justify-content: space-between; gap: 1rem;">
-  <span><strong>Samsung Semiconductor</strong></span>
-  <span>San Jose, CA</span>
-</div>
-<div style="display: flex; justify-content: space-between; gap: 1rem;">
-  <span>Machine Learning Engineer Intern, AI Innovation Team</span>
-  <span>May 2026 – Aug 2026</span>
-</div>
