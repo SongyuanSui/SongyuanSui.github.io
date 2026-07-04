@@ -13,7 +13,7 @@ title                    : "Songyuan Sui"
 title_separator          : "-"
 name                     : &name "Songyuan Sui"
 description              : &description "Songyuan Sui's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://SongyuanSui.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
+url                      : https://songyuansui.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SongyuanSui/SongyuanSui.github.io"
@@ -51,7 +51,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/SongyuanSui"
+  github           : "SongyuanSui"
   kaggle           : # Username
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")
 
@@ -302,7 +302,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: Etc/UTC # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
