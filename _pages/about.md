@@ -12,7 +12,7 @@ redirect_from:
   <strong>Address:</strong> Duncan Hall 2090, 6100 Main St, Houston, TX 77005
 </p>
 
-About
+Bio
 ======
 
 I am a Ph.D. Candidate in [Department of Computer Science](https://csweb.rice.edu/) at [Rice University](https://www.rice.edu/), fortunately co-advised by [Prof. Xia Hu](https://cs.rice.edu/~xh37/index.html) and [Prof. Arlei Silva](https://cs.rice.edu/~al110/). I got my B.Eng. in Computer Science degree from [Shandong University](https://www.en.sdu.edu.cn/) in 2022.
