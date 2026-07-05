@@ -84,12 +84,12 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
-  manuscripts:
-    title: 'Journal Articles'
+  under_review:
+    title: 'Under Review'
   conferences:
     title: 'Conference Papers'
+  journals:
+    title: 'Journal and Newsletter Articles'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
