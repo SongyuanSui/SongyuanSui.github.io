@@ -48,7 +48,7 @@ Industry Experience
 <div style="margin-bottom: 1rem;">
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
     <span><strong>Samsung Research America</strong></span>
-    <span>Mountain View, CA</span>
+    <span>Remote</span>
   </div>
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
     <span>Student Researcher, Samsung Ads</span>
