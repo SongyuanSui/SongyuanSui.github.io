@@ -130,7 +130,7 @@
         <li><a href="https://www.linkedin.com/in/{{ author.linkedin }}"><i class="fab fa-fw fa-linkedin icon-pad-right" aria-hidden="true"></i>LinkedIn</a></li>
       {% endif %}      
       {% if author.address %}
-        <li class="author__desktop" style="white-space: normal; overflow-wrap: anywhere;"><i class="fas fa-fw fa-map-location-dot icon-pad-right" aria-hidden="true"></i>Address: {{ author.address }}</li>
+        <li class="author__desktop" style="white-space: normal; overflow-wrap: anywhere;"><i class="fas fa-fw fa-map-location-dot icon-pad-right" aria-hidden="true"></i>Address:<br />{% for line in author.address %}{{ line }}{% unless forloop.last %}<br />{% endunless %}{% endfor %}</li>
       {% endif %}
       {% if author.mastodon %}
         <li><a href="{{ author.mastodon }}"><i class="fab fa-fw fa-mastodon icon-pad-right" aria-hidden="true"></i>Mastodon</a></li>
