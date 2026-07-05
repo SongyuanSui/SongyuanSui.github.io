@@ -62,7 +62,7 @@ Academic Service
 </div>
 
 <div style="margin-bottom: 1rem;">
-  <span><em>Judge</em>: Baker Institute AI Public Policy Competition.</span>
+  <span><em>Judge</em>: Baker Institute AI Public Policy Competition 2026.</span>
 </div>
 
 Invited Talks
