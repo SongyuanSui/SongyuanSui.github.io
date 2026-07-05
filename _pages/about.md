@@ -9,6 +9,8 @@ redirect_from:
 
 I am a Ph.D. Candidate in [Department of Computer Science](https://csweb.rice.edu/) at [Rice University](https://www.rice.edu/), fortunately co-advised by [Prof. Xia Hu](https://cs.rice.edu/~xh37/index.html) and [Prof. Arlei Silva](https://cs.rice.edu/~al110/). I got my B.Eng. in Computer Science degree from [Shandong University](https://www.en.sdu.edu.cn/) in 2022.
 
+<span style="color: red;">I am seeking full-time research scientist/engineer positions. Please feel free to contact me regarding any opportunities!</span>
+
 Research Interests
 ======
 My research focuses on developing practical LLM and AI agent systems for real-world multimodal reasoning and personalization. I aim to build generalizable, efficient, and interpretable AI methods for industrial applications involving time series, tables, images, and text.
@@ -20,5 +22,3 @@ My research focuses on developing practical LLM and AI agent systems for real-wo
 - **Multimodal Learning:** Building models and systems that reason over heterogeneous data sources, including tables, text, images, and time series.
 
 - **Personalized LLMs and Recommender Systems:** Studying efficient personalization methods for LLMs and recommendation models, especially for cold-start users and user-specific adaptation.
-
-<span style="color: red;">I am seeking full-time research scientist/engineer positions. Please feel free to contact me regarding any opportunities!</span>
