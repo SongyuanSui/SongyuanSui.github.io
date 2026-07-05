@@ -10,6 +10,13 @@ Teaching Experience
 
 <div style="margin-bottom: 1rem;">
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
+    <span>COMP 549 Applied Machine Learning and Data Science Projects: Mentor</span>
+    <span>Spring 2026</span>
+  </div>
+</div>
+
+<div style="margin-bottom: 1rem;">
+  <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
     <span>COMP 640 Graduate Seminar in Machine Learning: Guest Lecturer</span>
     <span>Fall 2024</span>
   </div>
@@ -52,6 +59,10 @@ Academic Service
 
 <div style="margin-bottom: 1rem;">
   <span><em>Journal Reviewer</em>: IEEE Transactions on Cognitive and Developmental Systems, ACM Transactions on Computing for Healthcare, ACM Transactions on Knowledge Discovery from Data.</span>
+</div>
+
+<div style="margin-bottom: 1rem;">
+  <span><em>Judge</em>: Baker Institute AI Public Policy Competition.</span>
 </div>
 
 Invited Talks
