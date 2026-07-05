@@ -2,8 +2,8 @@
 title: "LTSM-Bundle: A Toolbox and Benchmark on Large Language Models for Time Series Forecasting"
 collection: publications
 category: journals
-permalink: /publication/2025-12-31-ltsm-bundle
-date: 2025-12-31
+permalink: /publication/2025-12-30-ltsm-bundle
+date: 2025-12-30
 venue: "ACM SIGKDD Explorations Newsletter (SIGKDD Explor. 2025)"
 venueurl: "https://kdd.org/explorations"
 venue_link_text: "SIGKDD Explor. 2025"
