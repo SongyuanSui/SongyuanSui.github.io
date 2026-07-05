@@ -14,14 +14,11 @@ main:
   - title: "Experience"
     url: /experience/
 
-  - title: "Open Source Projects"
-    url: /open-source-projects/
+  - title: "Honors"
+    url: /honors/
 
-  - title: "Honors and Awards"
-    url: /honors-and-awards/
-
-  - title: "Academic Service"
-    url: /academic-service/
+  - title: "Service"
+    url: /service/
     
   - title: "CV"
     url: /cv/
