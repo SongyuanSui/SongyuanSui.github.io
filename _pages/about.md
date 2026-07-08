@@ -15,9 +15,9 @@ redirect_from:
 Bio
 ======
 
-I am a Ph.D. Candidate in [Department of Computer Science](https://csweb.rice.edu/) at [Rice University](https://www.rice.edu/), fortunately co-advised by [Prof. Xia Hu](https://cs.rice.edu/~xh37/index.html) and [Prof. Arlei Silva](https://cs.rice.edu/~al110/). I got my B.Eng. in Computer Science degree from [Shandong University](https://www.en.sdu.edu.cn/) in 2022.
+I am a Ph.D. Candidate in [Department of Computer Science](https://csweb.rice.edu/) at [Rice University](https://www.rice.edu/), fortunately co-advised by [Prof. Xia Hu](https://cs.rice.edu/~xh37/index.html) and [Prof. Arlei Silva](https://cs.rice.edu/~al110/). I earned my B.Eng. with honors in Computer Science from [Shandong University](https://www.en.sdu.edu.cn/) in 2022.
 
-<span style="color: red;">I am seeking full-time research scientist/engineer positions. Please feel free to contact me regarding any opportunities!</span>
+<span style="color: red;">I am actively seeking full-time Research Scientist, Applied Scientist, or Machine Learning Engineer positions. Feel free to reach out if you have any opportunities or would like to discuss potential collaborations.</span>
 
 Research Interests
 ======

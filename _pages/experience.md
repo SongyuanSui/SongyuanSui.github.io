@@ -25,7 +25,7 @@ Education
     <span>Jinan, China</span>
   </div>
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
-    <span>B.Eng. in Computer Science</span>
+    <span>B.Eng. with honors in Computer Science</span>
     <span>Sep 2018 – Jun 2022</span>
   </div>
 </div>
@@ -43,15 +43,21 @@ Industry Experience
     <span>Machine Learning Engineer Intern, Samsung AI Innovation</span>
     <span>May 2026 – Aug 2026</span>
   </div>
+  <div>
+    <span>Topic: Personalized Large Language Models</span>
+  </div>
 </div>
 
 <div style="margin-bottom: 1rem;">
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
-    <span><strong>Samsung Research America</strong></span>
+    <span><strong>Samsung Electronics America</strong></span>
     <span>Remote</span>
   </div>
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
     <span>Student Researcher, Samsung Ads</span>
     <span>Sep 2024 – May 2025</span>
+  </div>
+  <div>
+    <span>Topic: Tabular data understanding</span>
   </div>
 </div>
