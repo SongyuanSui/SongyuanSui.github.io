@@ -58,6 +58,6 @@ Industry Experience
     <span>Sep 2024 – May 2025</span>
   </div>
   <div>
-    <span>Topic: Tabular data understanding</span>
+    <span>Topic: Tabular Data Understanding</span>
   </div>
 </div>
