@@ -36,7 +36,7 @@ Industry Experience
 
 <div style="margin-bottom: 1rem;">
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
-    <span><strong>Samsung America</strong></span>
+    <span><strong>Samsung Device Solutions America</strong></span>
     <span>San Jose, CA</span>
   </div>
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
