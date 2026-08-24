@@ -36,11 +36,11 @@ Industry Experience
 
 <div style="margin-bottom: 1rem;">
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
-    <span><strong>Samsung Semiconductor</strong></span>
+    <span><strong>Samsung America</strong></span>
     <span>San Jose, CA</span>
   </div>
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
-    <span>Machine Learning Engineer Intern, Samsung AI Innovation</span>
+    <span>Machine Learning Engineer Intern, Samsung Applied AI</span>
     <span>May 2026 – Aug 2026</span>
   </div>
   <div>
