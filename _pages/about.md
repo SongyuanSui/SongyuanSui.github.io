@@ -23,10 +23,10 @@ Research Interests
 ======
 My research focuses on developing practical LLM and AI agent systems for real-world multimodal reasoning and personalization. I aim to build generalizable, efficient, and interpretable AI methods for industrial applications involving time series, tables, images, and text.
 
-- **Agentic AI Frameworks:** Designing LLM-based agents and multi-agent systems for complex reasoning, decision-making, and automation in real-world workflows.
+- **Personalized LLMs and Recommender Systems:** Studying efficient personalization methods for LLMs and recommendation models, especially for cold-start users and user-specific adaptation.
 
-- **Time-Series Foundation Models and Analysis:** Developing foundation models, representation learning methods, and agentic frameworks for time-series understanding, forecasting, anomaly detection, generation and industrial monitoring.
+- **Agentic AI Frameworks:** Designing LLM-based agents and multi-agent systems for complex reasoning, decision-making, and automation in real-world workflows.
 
 - **Multimodal Learning:** Building models and systems that reason over heterogeneous data sources, including tables, text, images, and time series.
 
-- **Personalized LLMs and Recommender Systems:** Studying efficient personalization methods for LLMs and recommendation models, especially for cold-start users and user-specific adaptation.
+- **Time-Series Foundation Models:** Developing foundation models, representation learning methods, and agentic frameworks for time-series understanding, forecasting, anomaly detection, generation and industrial monitoring.
