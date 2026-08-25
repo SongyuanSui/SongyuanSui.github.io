@@ -8,7 +8,7 @@ author_profile: true
 <div style="margin-bottom: 1rem;">
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
     <span><strong>Rice D2K Research Fellowship</strong>, Rice University</span>
-    <span>2025, 2026</span>
+    <span>Jan 2026</span>
   </div>
 </div>
 
