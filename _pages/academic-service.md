@@ -11,7 +11,7 @@ Teaching Experience
 <div style="margin-bottom: 1rem;">
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
     <span>COMP 549 Applied Machine Learning and Data Science Projects: Mentor</span>
-    <span>Spring 2026</span>
+    <span>Spring 2026, Fall 2026</span>
   </div>
 </div>
 
@@ -46,7 +46,7 @@ Teaching Experience
 <div style="margin-bottom: 1rem;">
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
     <span>COMP 556 Introduction to Computer Networks: Teaching Assistant</span>
-    <span>Spring 2023</span>
+    <span>Spring 2023, Fall 2026</span>
   </div>
 </div>
 
