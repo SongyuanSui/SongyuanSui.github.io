@@ -59,12 +59,14 @@
 
 .archive__item-title--publication {
   font-size: 1.15em;
+  line-height: 1.5rem;
   margin-top: 1.875rem;
+  margin-bottom: 0;
 
-  // Control both paragraph margins so the collapsed internal gaps stay equal.
+  // Match project entries: continuous text rows with no extra paragraph gaps.
   & ~ p {
-    margin-top: 0.75rem;
-    margin-bottom: 0.75rem;
+    margin-top: 0;
+    margin-bottom: 0;
   }
 }
 
