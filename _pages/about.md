@@ -21,12 +21,10 @@ I am a Ph.D. Candidate in [Department of Computer Science](https://csweb.rice.ed
 
 Research Interests
 ======
-My research focuses on developing practical LLM and AI agent systems for real-world multimodal reasoning and personalization. I aim to build generalizable, efficient, and interpretable AI methods for industrial applications involving time series, tables, images, and text.
+My research focuses on building efficient, reliable, and adaptive AI systems that can personalize to users, reason across modalities, and interact with external tools and environments.
 
-- **Personalized LLMs and Recommender Systems:** Studying efficient personalization methods for LLMs and recommendation models, especially for cold-start users and user-specific adaptation.
+- **LLM Personalization & Recommender Systems:** I study user modeling, cold-start personalization, parameter-efficient adaptation, and shared/compositional model capacity for scalable personalized LLMs and recommendation systems.
 
-- **Agentic AI Frameworks:** Designing LLM-based agents and multi-agent systems for complex reasoning, decision-making, and automation in real-world workflows.
+- **Multimodal Learning & Vision-Language Models:** I study robust learning across vision, language, and time-series modalities, with interests in cross-modal robustness, model editing, representation learning, and time-series foundation models and reasoning.
 
-- **Multimodal Learning:** Building models and systems that reason over heterogeneous data sources, including tables, text, images, and time series.
-
-- **Time-Series Foundation Models:** Developing foundation models, representation learning methods, and agentic frameworks for time-series understanding, forecasting, anomaly detection, generation and industrial monitoring.
+- **LLM Agents & Reasoning:** I develop tool-augmented and multi-agent systems for complex reasoning and decision-making, including post-training, routing, retrieval, self-correction, and reasoning over structured and time-series data.
