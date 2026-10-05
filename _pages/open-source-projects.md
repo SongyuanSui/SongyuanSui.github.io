@@ -5,7 +5,7 @@ permalink: /projects/
 author_profile: true
 ---
 
-<div style="margin-bottom: 1rem;">
+<div style="margin-bottom: 0.75rem;">
   <div>
     <strong><a href="https://github.com/datamllab/ltsm">LTSM-Bundle: A Toolbox and Benchmark on Large Language Models for Time Series Forecasting</a></strong>
   </div>
@@ -14,7 +14,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="margin-bottom: 1rem;">
+<div style="margin-bottom: 0.75rem;">
   <div>
     <strong><a href="https://github.com/SongyuanSui/EdgeCloud-AD">ECLAD: An Edge-Cloud Collaborative Agentic Framework for Interpretable Anomaly Detection in Predictive Maintenance</a></strong>
   </div>

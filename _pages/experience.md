@@ -7,7 +7,7 @@ author_profile: true
 
 ## Education
 
-<div style="margin-bottom: 1rem;">
+<div style="margin-bottom: 0.75rem;">
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
     <span><strong>Rice University</strong></span>
     <span>Houston, TX</span>
@@ -18,7 +18,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="margin-bottom: 1rem;">
+<div style="margin-bottom: 0.75rem;">
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
     <span><strong>Shandong University</strong></span>
     <span>Jinan, China</span>
@@ -32,7 +32,7 @@ author_profile: true
 
 ## Industry Experience
 
-<div style="margin-bottom: 1rem;">
+<div style="margin-bottom: 0.75rem;">
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
     <span><strong>Samsung Device Solutions America</strong></span>
     <span>San Jose, CA</span>
@@ -46,7 +46,7 @@ author_profile: true
   </div>
 </div>
 
-<div style="margin-bottom: 1rem;">
+<div style="margin-bottom: 0.75rem;">
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
     <span><strong>Samsung Electronics America</strong></span>
     <span>Remote</span>
