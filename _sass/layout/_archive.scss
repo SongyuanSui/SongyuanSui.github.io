@@ -48,6 +48,12 @@
   }
 }
 
+.archive__item-title--publication {
+  font-size: 1.15em;
+  // Preserve the original gap between entries when reducing the title size.
+  margin-top: 2.5rem;
+}
+
 .archive__item-venue {
   // Match the title-to-venue gap set by the paragraph's 1em top margin.
   margin-bottom: 1em;
