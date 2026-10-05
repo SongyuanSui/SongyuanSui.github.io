@@ -5,7 +5,7 @@ category: conferences
 permalink: /publication/2026-07-02-asset-medical-vlms
 date: 2026-07-02
 venue: "Annual Conference on Neural Information Processing Systems (NeurIPS 2026)"
-status: "Accepted at"
+status: "Accepted at the"
 citation: "Maohan Zhang, Zhen Tan, <strong>Songyuan Sui</strong>, Tianlong Chen."
 ---
 

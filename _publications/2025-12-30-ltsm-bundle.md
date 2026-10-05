@@ -7,7 +7,7 @@ date: 2025-12-30
 venue: "ACM SIGKDD Explorations Newsletter (SIGKDD Explor. 2025)"
 venueurl: "https://kdd.org/explorations"
 venue_link_text: "SIGKDD Explor. 2025"
-status: "Accepted at"
+status: "Accepted for publication in"
 paperurl: "https://dl.acm.org/doi/10.1145/3787470.3787475"
 citation: "Yu-Neng Chuang, Songchen Li, Jiayi Yuan, Guanchu Wang, Kwei-Herng Lai, <strong>Songyuan Sui</strong>, Leisheng Yu, Sirui Ding, Chia-Yuan Chang, Alfredo Costilla Reyes, Daochen Zha, Xia Hu."
 ---
