@@ -19,6 +19,6 @@ author_profile: true
     <strong><a href="https://github.com/SongyuanSui/EdgeCloud-AD">ECLAD: An Edge-Cloud Collaborative Agentic Framework for Interpretable Anomaly Detection in Predictive Maintenance</a></strong>
   </div>
   <div>
-    An edge-cloud collaborative framework for interpretable anomaly detection in predictive maintenance deployed on HVAC, oil and gas production lines.
+    An edge-cloud collaborative framework for interpretable anomaly detection in predictive maintenance, deployed in HVAC and Oil & Gas Production.
   </div>
 </div>
