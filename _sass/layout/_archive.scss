@@ -48,6 +48,11 @@
   }
 }
 
+.archive__item-venue {
+  // Match the title-to-venue gap set by the paragraph's 1em top margin.
+  margin-bottom: 1em;
+}
+
 /* remove border*/
 .page__content {
 
