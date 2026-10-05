@@ -60,8 +60,12 @@
 .archive__item-title--publication {
   font-size: calc(1.15em - 1px);
   line-height: 1.5rem;
-  margin-top: 1.3125rem;
+  margin-top: 18px;
   margin-bottom: 0;
+
+  @include breakpoint($medium) {
+    margin-top: 20px;
+  }
 
   // Match project entries: continuous text rows with no extra paragraph gaps.
   & ~ p {
