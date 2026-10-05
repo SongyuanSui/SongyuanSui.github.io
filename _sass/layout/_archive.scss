@@ -59,13 +59,13 @@
 
 .archive__item-title--publication {
   font-size: 1.15em;
-  // Preserve the original gap between entries when reducing the title size.
-  margin-top: 2.5rem;
-}
+  margin-top: 1.875rem;
 
-.archive__item-venue {
-  // Match the title-to-venue gap set by the paragraph's 1em top margin.
-  margin-bottom: 1em;
+  // Control both paragraph margins so the collapsed internal gaps stay equal.
+  & ~ p {
+    margin-top: 0.75rem;
+    margin-bottom: 0.75rem;
+  }
 }
 
 /* remove border*/
