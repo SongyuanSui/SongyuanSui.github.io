@@ -23,7 +23,7 @@ Research Interests
 ======
 My research focuses on building efficient, reliable, and adaptive AI systems that can personalize to users, reason across modalities, and interact with external tools and environments.
 
-- **LLM Personalization & Recommender Systems:** I study user modeling, cold-start personalization, parameter-efficient adaptation, and shared/compositional model capacity for scalable personalized LLMs and recommendation systems. [[LINEUP]](https://arxiv.org/abs/2610.02353)
+- **LLM Personalization & Recommender Systems:** I study user modeling, cold-start personalization, parameter-efficient adaptation, shared/compositional model capacity, and Mixture-of-Experts for scalable personalized LLMs and recommendation systems. [[LINEUP]](https://arxiv.org/abs/2610.02353)
 
 - **Multimodal Learning & Vision-Language Models:** I study robust learning across vision, language, and time-series modalities, with interests in cross-modal robustness, model editing, representation learning, and time-series foundation models and reasoning. [[GU]](https://neurips.cc/Downloads/2026) [[ASSET]](https://neurips.cc/Downloads/2026) [[CAST]](https://arxiv.org/abs/2609.27825) [[LTSM]](https://dl.acm.org/doi/10.1145/3787470.3787475)
 
