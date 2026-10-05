@@ -65,7 +65,7 @@
     {% endif %}
     
     {% if post.citation %}
-      <p>{{ post.citation }}</p>
+      <p{% if post.collection == 'publications' %} class="archive__item-authors"{% endif %}>{{ post.citation }}</p>
     {% endif %}
 
   </article>

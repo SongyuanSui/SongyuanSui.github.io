@@ -58,7 +58,7 @@
 }
 
 .archive__item-title--publication {
-  font-size: 1.15em;
+  font-size: calc(1.15em - 1px);
   line-height: 1.5rem;
   margin-top: 1.875rem;
   margin-bottom: 0;
@@ -68,6 +68,11 @@
     margin-top: 0;
     margin-bottom: 0;
   }
+}
+
+.archive__item-authors {
+  font-size: calc(1em - 1px);
+  line-height: 1.5rem;
 }
 
 /* remove border*/
