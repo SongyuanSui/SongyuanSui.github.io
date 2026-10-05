@@ -5,8 +5,7 @@ permalink: /service/
 author_profile: true
 ---
 
-Teaching Experience
-======
+## Teaching Experience
 
 <div style="margin-bottom: 1rem;">
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
@@ -50,8 +49,7 @@ Teaching Experience
   </div>
 </div>
 
-Academic Service
-======
+## Academic Service
 
 <div style="margin-bottom: 1rem;">
   <span><em>Conference Reviewer</em>:  .</span>
@@ -65,8 +63,7 @@ Academic Service
   <span><em>Judge</em>: Baker Institute AI Public Policy Competition 2026.</span>
 </div>
 
-Invited Talks
-======
+## Invited Talks
 
 <div style="margin-bottom: 1rem;">
   <span><em>AI Agents for Structured Data Reasoning</em>, at Samsung Electronics America.</span>

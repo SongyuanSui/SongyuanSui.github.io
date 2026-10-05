@@ -5,8 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-Education
-======
+## Education
 
 <div style="margin-bottom: 1rem;">
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
@@ -31,8 +30,7 @@ Education
 </div>
 
 
-Industry Experience
-======
+## Industry Experience
 
 <div style="margin-bottom: 1rem;">
   <div style="display: flex; justify-content: space-between; gap: 1rem; flex-wrap: wrap;">
