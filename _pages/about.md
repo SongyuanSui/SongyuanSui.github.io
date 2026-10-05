@@ -23,8 +23,8 @@ Research Interests
 ======
 My research focuses on building efficient, reliable, and adaptive AI systems that can personalize to users, reason across modalities, and interact with external tools and environments.
 
-- **LLM Personalization & Recommender Systems:** I study user modeling, cold-start personalization, parameter-efficient adaptation, and shared/compositional model capacity for scalable personalized LLMs and recommendation systems.
+- **LLM Personalization & Recommender Systems:** I study user modeling, cold-start personalization, parameter-efficient adaptation, and shared/compositional model capacity for scalable personalized LLMs and recommendation systems. [[LINEUP]](https://arxiv.org/abs/2610.02353)
 
-- **Multimodal Learning & Vision-Language Models:** I study robust learning across vision, language, and time-series modalities, with interests in cross-modal robustness, model editing, representation learning, and time-series foundation models and reasoning.
+- **Multimodal Learning & Vision-Language Models:** I study robust learning across vision, language, and time-series modalities, with interests in cross-modal robustness, model editing, representation learning, and time-series foundation models and reasoning. [[GU]](https://neurips.cc/Downloads/2026) [[ASSET]](https://neurips.cc/Downloads/2026) [[CAST]](https://arxiv.org/abs/2609.27825) [[LTSM-Bundle]](https://dl.acm.org/doi/10.1145/3787470.3787475)
 
-- **LLM Agents & Reasoning:** I develop tool-augmented and multi-agent systems for complex reasoning and decision-making, including post-training, routing, retrieval, self-correction, and reasoning over structured and time-series data.
+- **LLM Agents & Reasoning:** I develop tool-augmented and multi-agent systems for complex reasoning and decision-making, including post-training, routing, retrieval, self-correction, and reasoning over structured and time-series data. [[ECLAD]](https://dl.acm.org/doi/abs/10.1145/3774905.3793127) [[FETA]](https://arxiv.org/abs/2510.05950) [[CoQ]](https://aclanthology.org/2025.ijcnlp-long.53/)
