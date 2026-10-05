@@ -54,7 +54,7 @@ Academic Service
 ======
 
 <div style="margin-bottom: 1rem;">
-  <span><em>Conference Reviewer</em>: EACL 2026, CVPR 2026.</span>
+  <span><em>Conference Reviewer</em>:  .</span>
 </div>
 
 <div style="margin-bottom: 1rem;">
@@ -69,7 +69,7 @@ Invited Talks
 ======
 
 <div style="margin-bottom: 1rem;">
-  <span><em>Tabular Data Question Answering</em>, at Samsung Research America.</span>
+  <span><em>AI Agents for Structured Data Reasoning</em>, at Samsung Electronics America.</span>
 </div>
 
 <div style="margin-bottom: 1rem;">
