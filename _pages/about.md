@@ -25,9 +25,7 @@ My research focuses on building efficient, reliable, and adaptive AI systems tha
 
 - **LLM Personalization & Recommender Systems:** I study user modeling, cold-start personalization, parameter-efficient adaptation, shared/compositional model capacity, and Mixture-of-Experts for scalable personalized LLMs and recommendation systems. [[LINEUP]](https://arxiv.org/abs/2610.02353)
 
-- **Multimodal Learning & Vision-Language Models:** I study robust learning across vision, language, and time-series modalities, with interests in cross-modal robustness, model editing, representation learning, and time-series foundation models and reasoning.
-
-[[GU]](https://arxiv.org/abs/2610.04792) [[ASSET]](https://neurips.cc/virtual/2026/loc/atlanta/poster/153026) [[CAST]](https://arxiv.org/abs/2609.27825) [[LTSM]](https://dl.acm.org/doi/10.1145/3787470.3787475)
+- **Multimodal Learning & Vision-Language Models:** I study robust learning across vision, language, and time-series modalities, with interests in cross-modal robustness, model editing, representation learning, and time-series foundation models and reasoning.      [[GU]](https://arxiv.org/abs/2610.04792) [[ASSET]](https://neurips.cc/virtual/2026/loc/atlanta/poster/153026) [[CAST]](https://arxiv.org/abs/2609.27825) [[LTSM]](https://dl.acm.org/doi/10.1145/3787470.3787475)
 
 - **LLM Agents & Reasoning:** I develop tool-augmented and multi-agent systems for complex reasoning and decision-making, including post-training, routing, retrieval, self-correction, and reasoning over structured and time-series data.
 [[CoQ]](https://aclanthology.org/2025.ijcnlp-long.53/) [[ECLAD]](https://dl.acm.org/doi/abs/10.1145/3774905.3793127) [[FETA]](https://arxiv.org/abs/2510.05950)
