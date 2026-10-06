@@ -8,7 +8,7 @@ venue: "Annual Conference on Neural Information Processing Systems (NeurIPS 2026
 venueurl: "https://neurips.cc/"
 venue_link_text: "NeurIPS 2026"
 status: "Accepted at the"
-paperurl: "https://neurips.cc/Downloads/2026"
+paperurl: "https://arxiv.org/abs/2610.04792"
 citation: "<strong>Songyuan Sui</strong>, Zhen Tan, Mohan Zhang, Rana Muhammad Shahroz Khan, Xia Hu, Tianlong Chen."
 ---
 
