@@ -10,7 +10,7 @@ author_profile: true
     <strong><a href="https://github.com/datamllab/ltsm">LTSM-Bundle: A Toolbox and Benchmark on Large Language Models for Time Series Forecasting</a></strong>
   </div>
   <div>
-    A package of multiple Large Time Series Models design choices, including pre-processing strategies, tokenization, model architectures, and dataset setups. Received 100+ Stars.
+    A package of multiple Large Time Series Models design choices, including pre-processing strategies, tokenization, model architectures, and dataset setups. <strong>Received 100+ Stars.</strong>
   </div>
 </div>
 
@@ -19,6 +19,6 @@ author_profile: true
     <strong><a href="https://github.com/SongyuanSui/EdgeCloud-AD">ECLAD: An Edge-Cloud Collaborative Agentic Framework for Interpretable Anomaly Detection in Predictive Maintenance</a></strong>
   </div>
   <div>
-    An edge-cloud collaborative framework for interpretable anomaly detection in predictive maintenance, deployed in HVAC and Oil & Gas Production.
+    An edge-cloud collaborative framework for interpretable anomaly detection in predictive maintenance. <strong>Deployed in HVAC and Oil & Gas Production.</strong>
   </div>
 </div>
